@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_All Filters</name>
+   <tag></tag>
+   <elementGuidId>0ea6bc1b-41d3-43e6-8053-fb86ab496a24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.brm__all-filters.fake-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[21]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;s0-28_2-9-0-1[0]-0-1&quot;)/section[@class=&quot;brm b-refine-menu&quot;]/ul[@class=&quot;brm__list&quot;]/li[@class=&quot;brm__item&quot;]/button[@class=&quot;brm__all-filters fake-link&quot;][count(. | //*[@type = 'button' and (text() = 'All Filters' or . = 'All Filters')]) = count(//*[@type = 'button' and (text() = 'All Filters' or . = 'All Filters')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f905555a-eecf-48bb-8116-2db6c0d7a596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2fcb47d0-c82c-4945-97a4-30e624fc41e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>All Filters</value>
+      <webElementGuid>91911144-0585-4209-b41e-768c1d66dc66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track</name>
+      <type>Main</type>
+      <value>{&quot;eventFamily&quot;:&quot;LST&quot;,&quot;eventAction&quot;:&quot;ACTN&quot;,&quot;actionKind&quot;:&quot;SHOWDIALOG&quot;,&quot;operationId&quot;:&quot;2489527&quot;,&quot;flushImmediately&quot;:false,&quot;eventProperty&quot;:{&quot;moduledtl&quot;:&quot;mi%3A4118%7Ciid%3A1%7Cli%3A8171%7Cluid%3A119%7C&quot;,&quot;pageci&quot;:&quot;a4492dd3-9cc1-45b3-bd99-bca9256570e3&quot;,&quot;parentrq&quot;:&quot;e2e166431920a45bcd45ddccfffffa8c&quot;}}</value>
+      <webElementGuid>c2324490-0ea0-4698-b6ed-db4022ce4f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>brm__all-filters fake-link</value>
+      <webElementGuid>3f14d6a6-b28f-4e1e-af6b-853d837a4ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Filters</value>
+      <webElementGuid>c0eb87bb-a7df-4afe-b83b-628eec8b403e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s0-28_2-9-0-1[0]-0-1&quot;)/section[@class=&quot;brm b-refine-menu&quot;]/ul[@class=&quot;brm__list&quot;]/li[@class=&quot;brm__item&quot;]/button[@class=&quot;brm__all-filters fake-link&quot;]</value>
+      <webElementGuid>4ce68190-a472-4f7f-9881-878a1152c4b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[21]</value>
+      <webElementGuid>31c861ab-c7fb-460a-8f48-6bc61e04ef64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='s0-28_2-9-0-1[0]-0-1']/section/ul/li[9]/button</value>
+      <webElementGuid>ce4bd197-f958-4353-aecf-aa5d36ac099e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy It Now'])[2]/following::button[1]</value>
+      <webElementGuid>b2e9e75e-3af4-4f6a-bba1-9160f3ecdae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auction'])[2]/following::button[1]</value>
+      <webElementGuid>25d55a0a-e153-4aaa-b421-171123426b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HandleBar Riser Phone GPS Bracket Mount Bar For YAMAHA XT250X SEROW250 TRIKCER'])[1]/preceding::button[1]</value>
+      <webElementGuid>4eb19a31-245b-4c50-9650-76321c0b04ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR423,877.95'])[1]/preceding::button[1]</value>
+      <webElementGuid>3e8cceab-bbcb-44cd-9f1a-5761174d6246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Filters']/parent::*</value>
+      <webElementGuid>cb55f22a-efa2-4e1f-bd79-682e78c3f77c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/button</value>
+      <webElementGuid>176597c8-3bee-4a0f-89c6-1eca5721036d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'All Filters' or . = 'All Filters')]</value>
+      <webElementGuid>4a212339-b1ba-4438-b13f-f60b533b9ad2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

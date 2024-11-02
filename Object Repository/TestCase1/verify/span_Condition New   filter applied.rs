@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Condition New   filter applied</name>
+   <tag></tag>
+   <elementGuidId>ef1a495f-58f4-432f-a487-e461050cd0bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.brm__item-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s0-28-9-0-1[0]-0-1-6-9-4[0]-flyout']/div/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;s0-28-9-0-1[0]-0-1-6-9-4[0]-flyout&quot;)/div[@class=&quot;x-flyout__content flyout-notice flyout-notice--information flyout-notice--top-right&quot;]/ul[@class=&quot;brm__aspect-list&quot;]/li[@class=&quot;brm__aspect-item brm__aspect-item--applied&quot;]/a[1]/span[@class=&quot;brm__item-label&quot;][count(. | //*[(text() = 'Condition: New   filter applied' or . = 'Condition: New   filter applied')]) = count(//*[(text() = 'Condition: New   filter applied' or . = 'Condition: New   filter applied')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9b6da353-33dd-45fb-bfbc-1159da0a0ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>brm__item-label</value>
+      <webElementGuid>08a10c03-39b2-42b0-ae53-cf442481c998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Condition: New   filter applied</value>
+      <webElementGuid>49c510a4-a748-4649-99b3-713edb1f3071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s0-28-9-0-1[0]-0-1-6-9-4[0]-flyout&quot;)/div[@class=&quot;x-flyout__content flyout-notice flyout-notice--information flyout-notice--top-right&quot;]/ul[@class=&quot;brm__aspect-list&quot;]/li[@class=&quot;brm__aspect-item brm__aspect-item--applied&quot;]/a[1]/span[@class=&quot;brm__item-label&quot;]</value>
+      <webElementGuid>7a5bcdf0-1be0-4827-82ba-e03754f5bb03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s0-28-9-0-1[0]-0-1-6-9-4[0]-flyout']/div/ul/li/a/span</value>
+      <webElementGuid>4c4dca5c-1cd4-4ae3-bae2-2bbfa4e0afc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Condition: New']/parent::*</value>
+      <webElementGuid>7293aaec-aea8-4c37-a33d-2911b71401c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li/a/span</value>
+      <webElementGuid>808e5f6f-755d-4b2d-b571-396dee9d3bd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Condition: New   filter applied' or . = 'Condition: New   filter applied')]</value>
+      <webElementGuid>baa88a00-c6aa-45ee-a8c6-963b8093ee6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
