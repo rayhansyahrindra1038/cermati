@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Price Over 7,000,000.00   filter applied</name>
+   <tag></tag>
+   <elementGuidId>59c85093-5fed-40fe-82e3-ca10269dbc73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s0-28-9-0-1[0]-0-1-6-9-4[0]-flyout']/div/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;s0-28-9-0-1[0]-0-1-6-9-4[0]-flyout&quot;)/div[@class=&quot;x-flyout__content flyout-notice flyout-notice--information flyout-notice--top-right&quot;]/ul[@class=&quot;brm__aspect-list&quot;]/li[@class=&quot;brm__aspect-item brm__aspect-item--applied&quot;]/a[1]/span[@class=&quot;brm__item-label&quot;][count(. | //*[(text() = 'Price: Over $7,000,000.00   filter applied' or . = 'Price: Over $7,000,000.00   filter applied')]) = count(//*[(text() = 'Price: Over $7,000,000.00   filter applied' or . = 'Price: Over $7,000,000.00   filter applied')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2cb41170-a2bf-4a24-bd91-4a6f243e00b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>brm__item-label</value>
+      <webElementGuid>a7685335-6edf-4c54-a9cb-9bda925ac092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Price: Over $7,000,000.00   filter applied</value>
+      <webElementGuid>df22ac89-b987-47c8-9182-f0277e302816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s0-28-9-0-1[0]-0-1-6-9-4[0]-flyout&quot;)/div[@class=&quot;x-flyout__content flyout-notice flyout-notice--information flyout-notice--top-right&quot;]/ul[@class=&quot;brm__aspect-list&quot;]/li[@class=&quot;brm__aspect-item brm__aspect-item--applied&quot;]/a[1]/span[@class=&quot;brm__item-label&quot;]</value>
+      <webElementGuid>c168c93d-8312-4374-916c-d5cda01f9cbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s0-28-9-0-1[0]-0-1-6-9-4[0]-flyout']/div/ul/li[2]/a/span</value>
+      <webElementGuid>84c96d9d-a140-4f40-bf36-04b163881799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='filter applied'])[1]/following::span[2]</value>
+      <webElementGuid>0d1c1756-8953-403b-a918-74b3223d94a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Price: Over $7,000,000.00']/parent::*</value>
+      <webElementGuid>94c5d3bf-923c-4c57-90d0-bf0bed6be144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]/a/span</value>
+      <webElementGuid>e586214f-4eb2-4070-beba-a3d0843b1d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Price: Over $7,000,000.00   filter applied' or . = 'Price: Over $7,000,000.00   filter applied')]</value>
+      <webElementGuid>22b06c10-2626-4bac-984f-a1804b9b91e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

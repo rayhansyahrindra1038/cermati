@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Item Location Asia   filter applied</name>
+   <tag></tag>
+   <elementGuidId>e3ab3599-d264-4d02-8a11-04ec7c0ff7f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s0-28-9-0-1[0]-0-1-6-9-4[0]-flyout']/div/ul/li[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;s0-28-9-0-1[0]-0-1-6-9-4[0]-flyout&quot;)/div[@class=&quot;x-flyout__content flyout-notice flyout-notice--information flyout-notice--top-right&quot;]/ul[@class=&quot;brm__aspect-list&quot;]/li[@class=&quot;brm__aspect-item brm__aspect-item--applied&quot;]/a[1]/span[@class=&quot;brm__item-label&quot;][count(. | //*[(text() = 'Item Location: Asia   filter applied' or . = 'Item Location: Asia   filter applied')]) = count(//*[(text() = 'Item Location: Asia   filter applied' or . = 'Item Location: Asia   filter applied')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3a8e934e-0017-4cc3-993c-a5b518af209b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>brm__item-label</value>
+      <webElementGuid>2ec2768d-1d73-4fc4-b50f-ab17087fb380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Item Location: Asia   filter applied</value>
+      <webElementGuid>7a61cac8-d6e3-45f6-af33-3d3dead7b79e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s0-28-9-0-1[0]-0-1-6-9-4[0]-flyout&quot;)/div[@class=&quot;x-flyout__content flyout-notice flyout-notice--information flyout-notice--top-right&quot;]/ul[@class=&quot;brm__aspect-list&quot;]/li[@class=&quot;brm__aspect-item brm__aspect-item--applied&quot;]/a[1]/span[@class=&quot;brm__item-label&quot;]</value>
+      <webElementGuid>84414a02-1a22-4c9a-9a92-12f1a08d52f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s0-28-9-0-1[0]-0-1-6-9-4[0]-flyout']/div/ul/li[3]/a/span</value>
+      <webElementGuid>cdda5715-6da9-4833-a363-f41bf986f272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='filter applied'])[2]/following::span[2]</value>
+      <webElementGuid>476ee614-488b-4c5f-914f-467071930d30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Item Location: Asia']/parent::*</value>
+      <webElementGuid>06a8a430-49e8-4df0-a787-61e4ba7eb766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[3]/a/span</value>
+      <webElementGuid>03da74e7-842a-4ca1-ab6c-bbcdb63575ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Item Location: Asia   filter applied' or . = 'Item Location: Asia   filter applied')]</value>
+      <webElementGuid>7ac375e5-ef50-4fe2-b698-0e225663f38b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
